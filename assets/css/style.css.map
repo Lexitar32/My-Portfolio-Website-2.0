@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../scss/style.scss",
+        "../../scss/_config.scss",
+        "../../scss/_buttons.scss",
+        "../../scss/_about.scss",
+        "../../scss/_skills.scss",
+        "../../scss/_projects.scss",
+        "../../scss/_blog.scss",
+        "../../scss/_github.scss",
+        "../../scss/_contact.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
